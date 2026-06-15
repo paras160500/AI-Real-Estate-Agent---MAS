@@ -28,5 +28,3 @@ This project implements a collaborative multi-agent architecture where specializ
 - **Framework**: CrewAI
 - **LLM Model**: GPT-4o (OpenAI)
 - **API Integration**: Web scraping, real estate databases
-
-## 📁 Project Structure
